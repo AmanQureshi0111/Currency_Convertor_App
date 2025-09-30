@@ -38,11 +38,11 @@ currency-converter/
 ---
 
 ⚡ Installation
-•	- Clone the repo: git clone https://github.com/AmanQureshi0111/Currency_Convertor_App.git
-•	- cd currency-converter
-•	- Install dependencies: npm install
-•	- Start the development server: npm run dev
-•	- Open in browser: http://localhost:5173
+- Clone the repo: git clone https://github.com/AmanQureshi0111/Currency_Convertor_App.git
+- cd currency-converter
+- Install dependencies: npm install
+- Start the development server: npm run dev
+- Open in browser: http://localhost:5173
 
 ---
 
@@ -52,15 +52,15 @@ currency-converter/
 ---
 
 🌍 API Used
-We are using https://api.frankfurter.app/ which provides free exchange rates with no authentication required.
-Example request: https://api.frankfurter.app/latest?from=INR
+- We are using https://api.frankfurter.app/ which provides free exchange rates with no authentication required.
+- Example request: https://api.frankfurter.app/latest?from=INR
 
 ---
 
 🔮 Future Improvements
-•	- Add chart/graph for currency trends 📈
-•	- Support for cryptocurrencies 🪙
-•	- Add dark mode 🌙
+- Add chart/graph for currency trends 📈
+- Support for cryptocurrencies 🪙
+- Add dark mode 🌙
 
 ---
 
