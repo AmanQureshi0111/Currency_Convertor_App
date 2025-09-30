@@ -33,6 +33,7 @@ currency-converter/
 ├── public/
 ├── package.json
 └── README.md
+```
 
 ---
 
